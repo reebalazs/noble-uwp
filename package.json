@@ -25,7 +25,7 @@
 	"bugs": {
 		"url": "https://github.com/jasongin/noble-uwp/issues"
 	},
-	"homepage": "https://github.com/jasongin/noble-uwp#readme",
+	"homepage": "https://github.com/reebalazs/noble-uwp#readme",
 	"dependencies": {
 		"debug": "^2.6.0",
 		"noble": "https://github.com/reebalazs/noble.git#electron",
